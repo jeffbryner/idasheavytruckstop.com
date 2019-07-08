@@ -1,0 +1,6 @@
+DOMAIN_NAME: idasheavytruckstop.com
+SERVER_NAME: axjsomv4d1.execute-api.us-west-2.amazonaws.com
+CERTIFICATE_ARN:   arn:aws:acm:us-east-1:717455710680:certificate/3429cbb1-8142-4df0-9aa3-8dd8b2df345c
+ENVIRONMENT: prod
+REGION: us-west-2
+BUCKET_NAME: 717455710680-idasheavytruckstop.com-prod
